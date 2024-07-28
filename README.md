@@ -14,8 +14,8 @@ I present an implementation of the method and its application. The implementatio
 
 # Files
 
-    - The all code is contained in the file: ***proyecto.cpp***
-    - A easy integration of parallel computing: ***proyecto_par.cpp***
-    - A full description of the application is on the file [in Spanish]:  ***DescriptionResults_Project.pdf***
-    - Code for experiments with benchmark fucntions: ***proyecto_benchmark.cpp***
-    - To plot the benchmark functions we use python: ***Project_CP_MetaHeu.ipynb***
+- The all code is contained in the file: ***proyecto.cpp***
+- A easy integration of parallel computing: ***proyecto_par.cpp***
+- A full description of the application is on the file [in Spanish]:  ***DescriptionResults_Project.pdf***
+- Code for experiments with benchmark fucntions: ***proyecto_benchmark.cpp***
+- To plot the benchmark functions we use python: ***Project_CP_MetaHeu.ipynb***
